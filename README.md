@@ -1,0 +1,1 @@
+Sample project integrating RabbitMq with Spring Boot. Publishing and Consuming messages on two queues.
